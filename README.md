@@ -1,2 +1,2 @@
 # Bayesian-Inference-On-The-Given-Data
-Will be updated soon !
+Will be updated soon!
